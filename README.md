@@ -16,14 +16,12 @@ Aqui estão algumas capturas de tela para guiá-lo pelo processo de uso do CEP-C
 
 Ao iniciar o programa, você será recebido pelo menu principal. Digite um número de CEP para iniciar a consulta ou 'sair' para encerrar o programa.
 
-![Menu Principal]
 ![Captura de tela 2024-06-11 210348](https://github.com/Kaio-0708/ViaCep/assets/123708201/c9a9b62c-5077-455a-90d9-78aededb38e7)
 
 ### Interação com o Programa
 
 Digite os números de CEP e receba os endereços correspondentes em tempo real.
 
-![Interação com o Programa]
 ![Captura de tela 2024-06-11 221224](https://github.com/Kaio-0708/ViaCep/assets/123708201/fde08a05-1d13-4852-b7ed-9024fe9ea19d)
 
 ## Contribuição
