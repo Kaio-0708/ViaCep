@@ -1,6 +1,6 @@
 # CEP-Consulta
 
-Bem-vindo ao repositório CEP-Consulta. Este projeto demonstra como consultar endereços a partir de CEPs (Código de Endereçamento Postal) utilizando a API ViaCEP. Implementado em Java, o projeto permite que os usuários entrem com um CEP, obtenham o endereço correspondente e salvem os dados em um arquivo JSON.
+bem-vindo ao repositório CEP-Consulta. Este projeto demonstra como consultar endereços a partir de CEPs (Código de Endereçamento Postal) utilizando a API ViaCEP. Implementado em Java, o projeto permite que os usuários entrem com um CEP, obtenham o endereço correspondente e salvem os dados em um arquivo JSON.
 
 ## Funcionalidades
 
